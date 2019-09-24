@@ -1,0 +1,27 @@
+{
+  "name": "egg-view-ssi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiamao/egg-view-ssi.git"
+  },
+  "keywords": [
+    "eggjs",
+    "view",
+    "ssi"
+  ],
+  "author": "jiamao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiamao/egg-view-ssi/issues"
+  },
+  "homepage": "https://github.com/jiamao/egg-view-ssi#readme",
+  "dependencies": {
+    "jm-ssi": "^1.0.4"
+  }
+}
